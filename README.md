@@ -9,3 +9,6 @@ YOLO is a real-time object detection model that can be used to detect vehicles i
 ✔ Display bounding boxes around detected vehicles
 ✔ Count the number of vehicles in a frame
 ✔ Save processed videos with detections
+
+
+tech stack: opencv,cuda,yolov8
